@@ -1,6 +1,6 @@
                         @julia-nicole 💜 && 💙 @Igorio29
                                     💝 FOREVER 💝
-                        teachers: @Elvertoni, @Jeferson-Rodrigues
+                        teachers: @Elvertoni, @jefs-rodrigues
 
 - 👋 Olá, meu nome é Igor José Farias tenho 16 anos e estou aprendendo programação
 - 👀 eu me interesso por carros, espaço e programação
